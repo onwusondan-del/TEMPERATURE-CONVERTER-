@@ -30,7 +30,7 @@ This Tempetrature converter app coverts units from kelvin to celsius and to Fare
 ---
 
 ## Hosted link 
-* https://github.com/Chukwuka-E/GROUP-9-TEMPERATURE-CONVERTER-APP-ALWAYS-ACTIVE-/releases/download/v1.0.0/app-debug.apk*
+* https://github.com/onwusondan-del/TEMPERATURE-CONVERTER-/releases/download/v1.0.0/app-debug.apk
   
 ## Repository link 
 *  https://github.com/onwusondan-del/TEMPERATURE-CONVERTER- *
